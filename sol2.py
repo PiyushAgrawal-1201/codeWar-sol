@@ -1,5 +1,5 @@
 # capitalize every word of any string
-
+#trying to push from IntelliJ
 def capWord(a):
     b = a.split()
     c=[]
